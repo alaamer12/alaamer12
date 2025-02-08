@@ -11,69 +11,83 @@
 - 🌱 Learning **Software Architecture and Data Engineering**
 - 🤝 Collaborating on [Tealim](https://github.com/alaamer12/tealim-app)
 
-## 🚀 Featured Projects
+## 📂 Project Collections
 
-### 🎓 E-Learning & Education
-- [**Tealim Platform**](https://github.com/Tealim)
-  - Cross-platform E-Learning solution
-  - React Native & Next.js frontend
-  - FastAPI microservices backend
-  - Real-time collaboration features
+<details>
+<summary>🎓 Tealim E-Learning Platform</summary>
 
-- [**Snippets Platform**](https://github.com/alaamer12/snippets-frontend)
-  - Code snippet marketplace
-  - Advanced syntax highlighting
-  - Secure payment integration
-  - Developer community features
+- [tealim](https://github.com/alaamer12/tealim) - Core platform
+- [tealim-frontend](https://github.com/alaamer12/tealimFrontend) - Web interface
+- [tealim-app](https://github.com/alaamer12/tealim-app) - Mobile application
+- [tealim-backend](https://github.com/alaamer12/tealim-backend) - Backend services
+</details>
 
-### 🎮 Gaming & Interactive
-- [**Gigamon**](https://github.com/alaamer12/Gigamon) - Chad-themed card game
-- [**Online Multiplayer Game**](https://github.com/alaamer12/online_multiplayer_game) - Multiplayer game framework
+<details>
+<summary>💻 Design Pattern Implementations</summary>
 
-### 🛠️ Developer Tools
-- [**Compressit**](https://github.com/alaamer12/compressit) - Multi-algorithm file compression
-- [**DailyLogger**](https://github.com/alaamer12/DailyLogger) - Activity tracking system
-- [**Probackuper**](https://github.com/alaamer12/probackuper) - Automated backup solution
-- [**True Core**](https://github.com/alaamer12/true-core) - Enterprise utilities library
+**Creational**
+- [builder-pattern](https://github.com/alaamer12/builder_pattern_t) - Step-by-step object construction
+- [factory-pattern](https://github.com/alaamer12/factory_pattern_t) - Object creation methods
+- [abstract-factory](https://github.com/alaamer12/abstract_factory) - Family of related objects
+- [prototype-pattern](https://github.com/alaamer12/prototype_pattern) - Object cloning
+- [singleton-pattern](https://github.com/alaamer12/singleton_t) - Single instance objects
 
-### 📚 Design Pattern Series
-A comprehensive collection of design pattern implementations with real-world examples:
+**Structural**
+- [adapter-pattern](https://github.com/alaamer12/adapter_pattern_t) - Interface adaptation
+- [bridge-pattern](https://github.com/alaamer12/bridge_pattern) - Implementation separation
+- [composite-pattern](https://github.com/alaamer12/composite) - Tree structures
+- [decorator-pattern](https://github.com/alaamer12/decorator_pattern) - Dynamic functionality
+- [facade-pattern](https://github.com/alaamer12/facade) - Simplified interface
+</details>
 
-#### Creational Patterns
-- [Builder Pattern](https://github.com/alaamer12/builder_pattern_t)
-- [Factory Pattern](https://github.com/alaamer12/factory_pattern_t)
-- [Abstract Factory](https://github.com/alaamer12/abstract_factory)
-- [Prototype Pattern](https://github.com/alaamer12/prototype_pattern)
-- [Singleton Pattern](https://github.com/alaamer12/singleton_t)
+<details>
+<summary>🛠️ Developer Tools</summary>
 
-#### Structural Patterns
-- [Adapter Pattern](https://github.com/alaamer12/adapter_pattern_t)
-- [Bridge Pattern](https://github.com/alaamer12/bridge_pattern)
-- [Composite Pattern](https://github.com/alaamer12/composite)
-- [Decorator Pattern](https://github.com/alaamer12/decorator_pattern)
-- [Facade Pattern](https://github.com/alaamer12/facade)
+- [compressit](https://github.com/alaamer12/compressit) - File compression utility
+- [DailyLogger](https://github.com/alaamer12/DailyLogger) - Activity tracking
+- [probackuper](https://github.com/alaamer12/probackuper) - Backup solution
+- [logsys](https://github.com/alaamer12/logsys) - Secure logging
+- [improcess](https://github.com/alaamer12/improcess) - Image processing
+</details>
 
-#### Behavioral Patterns
-- [Observer Pattern](https://github.com/alaamer12/observor)
-- [Strategy Pattern](https://github.com/alaamer12/stratgey)
-- [Template Pattern](https://github.com/alaamer12/template_pattern)
-- [Chain of Responsibility](https://github.com/alaamer12/cor)
-- [Mediator Pattern](https://github.com/alaamer12/mediator)
+<details>
+<summary>📚 Learning Resources</summary>
 
-### 📱 Mobile Development
-- [**Tealim App**](https://github.com/alaamer12/tealim-app) - Cross-platform learning app
-- [**Next-Expo-Solito**](https://github.com/alaamer12/next-expo-solito) - Cross-platform template
+- [fastapi_t](https://github.com/alaamer12/fastapi_t) - FastAPI tutorials
+- [clean_code_t](https://github.com/alaamer12/clean_code_t) - Clean code practices
+- [dsa_t](https://github.com/alaamer12/dsa_t) - Data Structures & Algorithms
+- [cloud_service_t](https://github.com/alaamer12/cloud_service_t) - Cloud services
+</details>
 
-### 🔧 System Tools
-- [**Logsys**](https://github.com/alaamer12/logsys) - Secure logging system
-- [**Quickscripts**](https://github.com/alaamer12/quickscripts) - Automation utilities
-- [**Improcess**](https://github.com/alaamer12/improcess) - Image processing tool
+## 💻 Tech Stack
 
-### 📚 Tutorials & Learning
-- [**FastAPI Tutorial**](https://github.com/alaamer12/fastapi_t) - REST API development
-- [**Cloud Services**](https://github.com/alaamer12/cloud_service_t) - Cloud integration
-- [**Clean Code**](https://github.com/alaamer12/clean_code_t) - Best practices
-- [**DSA Tutorial**](https://github.com/alaamer12/dsa_t) - Data Structures & Algorithms
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Mobile & Cross-platform
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Solito](https://img.shields.io/badge/-Solito-black?style=flat-square)
+
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ## 💻 Tech Stack
 
