@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Amr Mohamed
-
-> Software Engineer specializing in E-Learning platforms, Design Patterns, and Cross-platform Development
+# 👋 Alaamer's Here!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaamer12&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaamer12&theme=radical" alt="GitHub Trophies" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2ECD&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amr+Mohamed;Full-Stack+Developer;Software+Architect;E-Learning+Enthusiast" alt="Typing SVG" />
 </div>
+
+> Software Engineer specializing in E-Learning platforms, Design Patterns, and Cross-platform Development
 
 ## 🎯 Current Focus
 - 🔭 Working on [Snippets Platform](https://github.com/alaamer12/snippets-frontend)
@@ -111,9 +107,9 @@ A comprehensive collection of design pattern implementations with real-world exa
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaamer12&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaamer12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" justify="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaamer12&theme=radical" alt="GitHub Streak" /> -->
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaamer12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📚 Latest Content
@@ -126,9 +122,3 @@ A comprehensive collection of design pattern implementations with real-world exa
 - 🌐 [Portfolio](https://portfolio-qiw8.vercel.app/)
 - 📫 [Email](mailto:amrmuhamed86@gmail.com)
 - 🐦 [Twitter](https://twitter.com/alaamer12)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaamer12&color=blueviolet" alt="Profile Views" />
-</div>
