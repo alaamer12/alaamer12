@@ -232,7 +232,6 @@ Immersive VR music room featuring fully interactive drum kit with realistic phys
 ## 📚 Latest Content
 - [Technical Articles](https://github.com/alaamer12/Posts)
 - [Research Papers](https://github.com/alaamer12/Researches_and_Docs)
-- [Documentation](https://github.com/alaamer12/Documentations)
 
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amr-muhamed-0b0709265)
